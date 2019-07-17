@@ -1,0 +1,4 @@
+[submodule "localizacion_calidad"]
+	path = localizacion_calidad
+	url = https://github.com/Tysamncaweb/Localizacion_intelectra.git
+	branch = master
